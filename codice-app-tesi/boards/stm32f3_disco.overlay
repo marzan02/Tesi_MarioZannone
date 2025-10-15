@@ -1,9 +1,0 @@
-/ {
-    aliases {
-        led0 = &green_led_6;  /* LD6 verde - PE15 */
-        led1 = &green_led_7;  /* LD7 verde - PE11 */
-        led2 = &red_led_3;    /* LD3 rosso - PE9  */
-        led3 = &blue_led_4;   /* LD4 blu   - PE8  */
-        sw0  = &user_button;  /* Pulsante  - PA0  */
-    };
-};
