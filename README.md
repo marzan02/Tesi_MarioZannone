@@ -6,4 +6,6 @@ su microcontrollore STM32F303 Discovery.
 
 Il codice presenta anche funzioni di test, per capire alcuni comportamenti dello scheduler e della ISR.
 
+Inoltre vi sono anche dei video esplicativi del microcontrollore per tutti i casi presentati in tesi.
+
 
